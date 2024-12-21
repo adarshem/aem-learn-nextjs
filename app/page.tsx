@@ -1,6 +1,6 @@
 import Link from "next/link";
+
 export default function Home() {
-  console.log("=== this is test");
   return (
     <main>
       <img src="/logo.png" alt="A server surrounded by magic sparkles." />
